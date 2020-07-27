@@ -1,0 +1,2 @@
+# note
+Some ordinary program
